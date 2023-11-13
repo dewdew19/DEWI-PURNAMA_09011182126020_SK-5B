@@ -1,1 +1,1 @@
-# Pemprosesan-Paralel_09011182126020_Dewi-Purnama
+# MPI
